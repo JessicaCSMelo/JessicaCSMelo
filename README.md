@@ -1,4 +1,4 @@
-Olá! 👋
+Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30"></h3>
 
 Meu nome é Jéssica, sou graduada em Engenharia de Produção e atualmente sou estudante do curso de front-end no projeto Rio Pomba Valley, realizado pela Energisa em parceria com o Educação Livre e Senai-MG.
 

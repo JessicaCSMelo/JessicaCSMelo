@@ -16,4 +16,4 @@ Meu nome é Jéssica, sou graduada em Engenharia de Produção e atualmente sou 
   <a href="https://github.com/JessicaCSMelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaCSMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
-  ![Snake animation](https://github.com/JessicaCSMelo/JessicaCSMelo/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/jessicaCSMelo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
